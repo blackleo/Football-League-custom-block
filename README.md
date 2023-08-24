@@ -28,8 +28,9 @@ Elementor is a popular WordPress page builder that enables you to create stunnin
 Follow these steps to install the Elementor Typography and Color Selection custom block:
 
 1. Clone or download this repository to your local machine.
-2. Upload the plugin folder to the `/wp-content/plugins/` directory of your WordPress installation.
-3. Activate the plugin through the 'Plugins' menu in WordPress.
+2. Create a plugin folder with name football-league.
+3. Upload all the files to plugin folder to the `/wp-content/plugins/` directory of your WordPress installation.
+4. Activate the plugin through the 'Plugins' menu in WordPress.
 
 ## Usage
 
